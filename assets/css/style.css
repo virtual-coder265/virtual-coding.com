@@ -423,8 +423,8 @@ h6 {
 }
 
 #hero .hero-info .btn-get-started {
-  background: #007bff;
-  border: 2px solid #007bff;
+  background: #0a396b;
+  border: 2px solid #208806;
   color: #fff;
 }
 
@@ -439,8 +439,8 @@ h6 {
 }
 
 #hero .hero-info .btn-services:hover {
-  background: #007bff;
-  border-color: #007bff;
+  background:  #0a396b;
+  border-color: #208806;
   color: #fff;
 }
 
@@ -640,7 +640,7 @@ section {
 }
 
 #services .box {
-  padding: 30px;
+  padding: 38px;
   position: relative;
   overflow: hidden;
   border-radius: 10px;
@@ -648,6 +648,7 @@ section {
   background: #fff;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
+  
 }
 
 #services .box:hover {
@@ -656,7 +657,7 @@ section {
 
 #services .icon {
   position: absolute;
-  left: -15px;
+  left: -2px;
   top: calc(50% - 32px);
 }
 
